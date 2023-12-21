@@ -37,6 +37,3 @@ You can customize the application according to your needs:
 
 Contributions are welcome! If you find issues or potential improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
